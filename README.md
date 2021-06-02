@@ -9,8 +9,14 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rajat10Kumar&rshow_owner=true)](https://github.com/Rajat10Kumar/github-readme-stats) -->
 
 
-[![Rajat Kumar's](https://github-readme-stats.vercel.app/api?username=Rajat10Kumar)](https://github.com/Rajat10Kumar/github-readme-stats)
+[![Rajat Kumar's](https://github-readme-stats.vercel.app/api?username=Rajat10Kumar&show_icons=true&hide_border=true)](https://github.com/Rajat10Kumar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat10Kumar)](https://github.com/Rajat10Kumar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat10Kumar&hide_border=true&layout=compact)](https://github.com/Rajat10Kumar/github-readme-stats)
 
 
+<!-- <a href="https://github.com/Rajat10Kumar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajat10Kumar&show_icons=true&hide_border=true" />
+</a> -->
+<!-- <a href="https://github.com/Rajat10Kumar/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajat10Kumar&repo=convoychat" />
+</a> -->
