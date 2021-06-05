@@ -1,6 +1,6 @@
 ### Hi there,I'm Rajat Kumar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="350" align="right"/>
+  <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="450" align="right"/>
 
 
 
